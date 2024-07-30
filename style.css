@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.main-container{
+   /* background-color: aqua; */
+}
+span{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+    color: red;
+}
+.header-container{
+    padding: 5px;
+}
+.plates-contain{
+    display: flex;
+    justify-content: space-around;
+}
+.box-container{
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 15px;
+    margin: 15px;
+    border-radius: 1px solid black;
+}
+.mimi-box{
+    border-radius: 1px solid black;
+}
+
